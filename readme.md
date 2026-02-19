@@ -26,9 +26,9 @@ Główny plik z kodem w języku Python. Zawiera implementację algorytmów i wiz
 
 ## Kluczowe wyniki
 
-W toku analizy udowodniono, że precyzja rekonstrukcji jest silnie skorelowana z energią cząstki oraz głębokością penetracji kaskady w detektorze. Dzięki optymalizacji algorytmu uzyskano bardzo wysoką rozdzielczość:
+W toku analizy udowodniono, że precyzja rekonstrukcji jest silnie skorelowana z energią cząstki oraz głębokością penetracji kaskady w detektorze. Dzięki optymalizacji algorytmu uzyskano zadowalającą prezycję:
 * Dla wysokich energii (**20 GeV**) kaskada dociera niemal do samego końca kalorymetru (średnio >23 aktywne warstwy). Długie ramię pomiarowe pozwala na stabilne dopasowanie trajektorii, co skutkuje wysoką precyzją kątową na poziomie **$\sigma_\theta < 1.8^\circ$**.
-* Dla niskich energii (**2.5 GeV**) mniejsza gęstość cząstek wtórnych i krótszy zasięg (~18.5 warstwy) ograniczają stabilność dopasowywanego toru, zwiększając niepewność do poziomu **$\sigma_\theta \approx 5.3^\circ - 5.6^\circ$**.
+* Dla niskich energii (**2.5 GeV**) mniejsza gęstość cząstek wtórnych i krótszy zasięg (~18.5 warstwy) ograniczają stabilność dopasowywanego fitu, zwiększając niepewność do poziomu **$\sigma_\theta \approx 5.3^\circ - 5.6^\circ$**.
 
 
 
